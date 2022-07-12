@@ -1,0 +1,2 @@
+1)Create a folder name:- 'images'
+2)Create a folder name:- 'Attendance.csv'
